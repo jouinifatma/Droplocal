@@ -305,7 +305,7 @@ pre {
 }
 
 #header .header-top.header-top-bottom-containered-border > .container > .header-row {
-	border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+	border-bottom: 2px solid rgba(0, 0, 0, 0.06);
 }
 
 #header .header-top.header-top-small-minheight {
@@ -6139,7 +6139,7 @@ h6 .inverted {
 }
 
 .text-2 {
-	font-size: .9em !important;
+	font-size: 1.3em !important;
 }
 
 .text-2-3,
