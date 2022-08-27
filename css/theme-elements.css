@@ -3458,6 +3458,7 @@ html.sticky-header-active .hamburguer-btn.hamburguer-btn-sticky-dark .close span
 	padding: 2rem;
 	position: relative;
 	z-index: 1;
+	
 }
 
 .card-text-color-hover-light:hover * {
