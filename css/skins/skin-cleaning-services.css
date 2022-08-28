@@ -436,7 +436,7 @@ html .svg-stroke-color-hover-light svg:hover polygon {
 
 html .bg-color-primary,
 html .bg-primary {
-	background-color: #00a1cd !important;
+	background-color: #0d6efd !important;
 }
 
 html .bg-color-hover-primary:hover,
@@ -488,7 +488,7 @@ html .bg-color-hover-before-secondary:before:hover {
 
 html .bg-color-tertiary,
 html .bg-tertiary {
-	background-color: #0281d7 !important;
+	background-color: #f7f7f7 !important;
 }
 
 html .bg-color-hover-tertiary:hover,
