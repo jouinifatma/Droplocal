@@ -1241,7 +1241,7 @@ pre {
 }
 
 #header.header-effect-shrink .header-container {
-	min-height: 100px;
+	min-height: 80px;
 }
 
 #header.header-effect-shrink .header-logo {

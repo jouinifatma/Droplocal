@@ -2227,7 +2227,7 @@ html .btn-with-arrow-solid.btn-light span {
 }
 
 .btn-gradient:not(.btn-outline) {
-	background: linear-gradient(135deg, #00a1cd 0%, #183f72 80%) !important;
+	background: #0d6efd !important;
 	color: #FFF;
 }
 
